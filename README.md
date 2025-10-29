@@ -1,4 +1,4 @@
-# dijitalgoruntu5🇹🇷 Türkçe Açıklama (Description)
+# Image Processing 🇹🇷 Türkçe Açıklama (Description)
 
 Bu proje, dijital görüntü işlemenin temel kavramlarını uygulamalı olarak göstermektedir.
 Python kullanılarak sıfırdan bir bayrak görseli oluşturulmuş, renk manipülasyonları yapılmış ve gürültülü (noise) görüntü üretilmiştir. Proje, piksel seviyesinde işlem yapmayı ve görsel verilerin nasıl yönetileceğini öğretmeyi amaçlar.
